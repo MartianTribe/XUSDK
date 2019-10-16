@@ -17,4 +17,10 @@ Abandoning the file read for now until Stackoverflow comes to the rescue. Hardco
 
 ==========================
 
+Wed. 2:43
+
+Trying some ideas left on the Stackoverflow query responses.
+
+===========================
+
 This is the most beautiful readme file in the history of readmes.
