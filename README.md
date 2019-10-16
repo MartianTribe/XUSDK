@@ -13,6 +13,8 @@ Trying to read that file.
 =========================
 Wed: 1:42 PM
 
-Abandoning the file read for now until Stackoverflow comes to the rescue. Hardcoded email content into the build itself. 
+Abandoning the file read for now until Stackoverflow comes to the rescue. Hardcoded email content into the build itself.
 
 ==========================
+
+This is the most beautiful readme file in the history of readmes.
