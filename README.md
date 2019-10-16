@@ -24,3 +24,11 @@ Trying some ideas left on the Stackoverflow query responses.
 ===========================
 
 This is the most beautiful readme file in the history of readmes.
+
+===========================
+
+Wed. 2:53
+
+File input test 3
+
+===========================
